@@ -1,0 +1,13 @@
+class TariffsDescriptions:
+    WORKING_TARIFF_TITLE_TEXT = 'Рабочий'
+    WORKING_TARIFF_SUBTITLE_TEXT = 'Для деловых особ, которых отвлекают'
+    SLEEPY_TARIFF_TITLE_TEXT = 'Сонный'
+    SLEEPY_TARIFF_SUBTITLE_TEXT = 'Для тех, кто не выспался'
+    VACATION_TARIFF_TITLE_TEXT = 'Отпускной'
+    VACATION_TARIFF_SUBTITLE_TEXT = 'Если пришла пора отдохнуть'
+    TALKING_TARIFF_TITLE_TEXT = 'Разговорчивый'
+    TALKING_TARIFF_SUBTITLE_TEXT = 'Если мысли не выходят из головы'
+    COMFORTING_TARIFF_TITLE_TEXT = 'Утешительный'
+    COMFORTING_TARIFF_SUBTITLE_TEXT = 'Если хочется свернуться калачиком'
+    CHIC_TARIFF_TITLE_TEXT = 'Глянцевый'
+    CHIC_TARIFF_SUBTITLE_TEXT = 'Если нужно блистать'
