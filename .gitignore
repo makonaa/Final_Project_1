@@ -1,0 +1,4 @@
+.*
+geckodriver.log
+!.gitignore
+allure-results
